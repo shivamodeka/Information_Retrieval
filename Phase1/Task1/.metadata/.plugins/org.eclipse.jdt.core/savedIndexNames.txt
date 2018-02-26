@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+/Users/sarthak/Desktop/Information Retrieval/Project/SKothari_TuTh_MKapadia_Tu_SOdeka_Tu/Phase1/Task1/.metadata/.plugins/org.eclipse.jdt.core
+2561797135.index
+1508889539.index
+2186715233.index
+2188262630.index
+3665656385.index
